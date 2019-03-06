@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">schoolLab1</string>
+    <string name="name">Name</string>
+    <string name="birth">Birth</string>
+    <string name="click_me">Click me</string>
+    <string name="to_new_activity">TO new Activity</string>
+    <string name="take_picture">Take Picture</string>
+</resources>
